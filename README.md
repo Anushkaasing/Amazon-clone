@@ -1,5 +1,5 @@
-# Amazon-clone
-# 🛒 Amazon Clone (HTML & CSS)
+
+# 🛒Responsive Amazon Clone (HTML & CSS)
 
 This is a **responsive Amazon clone** built using **HTML** and **CSS** only. It replicates the look and layout of Amazon’s homepage and adjusts smoothly to different screen sizes.
 
@@ -15,7 +15,7 @@ This is a **responsive Amazon clone** built using **HTML** and **CSS** only. It 
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3 (including Media Queries)
+- CSS3 
 
 ## 📁 Project Structure
 amazon-clone/               ← main project folder
