@@ -18,6 +18,17 @@ This is a **responsive Amazon clone** built using **HTML** and **CSS** only. It 
 - CSS3 (including Media Queries)
 
 ## 📁 Project Structure
+amazon-clone/               ← main project folder
+│
+├── index.html              ← The main HTML file ( webpage)
+├── style.css               ← The CSS file (styles for  webpage)
+├── images/                 ← A folder that stores all the images
+│   ├── logo.png            ← An image (like the Amazon logo)
+│   ├── banner.jpg          ← A banner image (like the homepage banner)
+│   ├── product1.jpg        ← An image of a product
+│   └── ...                 ← Other images used in amazon site
+└── README.md               ← A text file that explains the project 
+
 
 ## 📱 Responsiveness
 
@@ -43,5 +54,5 @@ Responsive layouts are managed using media queries.
 ## 👨‍💻 Author
 
 - Anushka singh
-- GitHub: 
+- GitHub: https://github.com/Anushkaasing
 
